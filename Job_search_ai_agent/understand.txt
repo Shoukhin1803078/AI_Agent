@@ -1,0 +1,6 @@
+put OPENAI_API_KEY="...." in .env
+
+
+for windows:
+python -m venv venv
+.\venv\Scripts\activate
