@@ -1,3 +1,4 @@
 # pip install phidata fastapi python-multipart uvicorn PyPDF2 python-dotenv openai duckduckgo-search
 pip install "phidata[all]" fastapi python-multipart uvicorn PyPDF2 python-dotenv duckduckgo-search openai
 pip install duckduckgo-search
+pip install streamlit fastapi python-docx PyPDF2 openai phidata duckduckgo-search
