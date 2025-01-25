@@ -1,0 +1,5 @@
+pip install langchain langchain_community openai langchain_openai
+
+pip install streamlit langchain langchain-openai faiss-cpu python-docx pandas openai pypdf openpyxl
+
+pip install langchain-core langchain-openai langchain-community langchain-groq openai PyPDF2 python-docx faiss-cpu langchain_huggingface
